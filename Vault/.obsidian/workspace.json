@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "b26497949d7f6aff",
+    "type": "split",
+    "children": [
+      {
+        "id": "12b714c55bfe22bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a7b26009cf4ddad",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9af3af9653c4ff3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fd4742f29ab4fad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26f294c3c51811c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0389b90ff2c15557",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Daily",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f93cb7eceaba658",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "eeab1ab28cabce0f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f9d2712f25649131",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "440bae0bf612f470",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7297eab61f38f991",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef373d626c7bb67f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c4ea3049d0a568b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc2ac0d12035d002",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "8ce15b4f6ac5e43e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0880c720d2ade27b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "78d900223b9a3ebe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f5c3238d433efc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "zk-prefixer:Create new unique note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "1a7b26009cf4ddad",
+  "lastOpenFiles": [
+    "00 - Maps of Content/Placeholder.md",
+    "01 - Projects/Placeholder.md",
+    "02 - Areas/Placeholder.md",
+    "03 - Resources/Placeholder.md",
+    "04 - Permanent/Placeholder.md",
+    "05 - Fleeting/Placeholder.md",
+    "06 - Daily/Placeholder.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "05 - Fleeting/転職.md",
+    "06 - Daily/Untitled",
+    "2024-W35.md",
+    "06 - Daily/20240901.md",
+    "06 - Daily/20240831.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Soft.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99 - Meta/01 - Attachiments",
+    "Untitled.md",
+    "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
+    "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
+    "Pasted image 20240831230342.png",
+    "07 - Archives/Placeholder.md",
+    "ED-202408312245.excalidraw.md"
+  ]
+}
